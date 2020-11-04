@@ -1,0 +1,20 @@
+C:\Users\Asus\Downloads\Traffic-Light-master\bin\Debug\Trafic Lamp.exe.config
+C:\Users\Asus\Downloads\Traffic-Light-master\bin\Debug\Trafic Lamp.exe
+C:\Users\Asus\Downloads\Traffic-Light-master\bin\Debug\Trafic Lamp.pdb
+C:\Users\Asus\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Traffic-Light-master\obj\Debug\Trafic_Lamp.Form1.resources
+C:\Users\Asus\Downloads\Traffic-Light-master\obj\Debug\Trafic_Lamp.Properties.Resources.resources
+C:\Users\Asus\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.exe
+C:\Users\Asus\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.pdb
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\bin\Debug\Trafic Lamp.exe.config
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\bin\Debug\Trafic Lamp.exe
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\bin\Debug\Trafic Lamp.pdb
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.csprojAssemblyReference.cache
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\obj\Debug\Trafic_Lamp.Form1.resources
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\obj\Debug\Trafic_Lamp.Properties.Resources.resources
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.csproj.GenerateResource.cache
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.exe
+C:\Users\ASUS VIVOBOOK\Downloads\Traffic-Light-master\obj\Debug\Trafic Lamp.pdb
